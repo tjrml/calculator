@@ -45,7 +45,7 @@ public class CalculatorFrame extends JFrame {
 			if (i % 4 != 3) {
 				btn[i].setBackground(Color.white);
 			}
-			
+
 			switch (i) {
 			case 3:
 				btn[i].setText("/");
